@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Mouse Move Parallax</title>
+
+    <style>
+        html,
+        body {
+            height: 100%;
+            position: relative;
+            overflow: hidden;
+            margin: 0;
+        }
+
+        #bg {
+            width: 110%;
+            height: 110%;
+            background-image: url("./pikachu.jpg");
+            background-size: cover;
+            background-position: center;
+            position: absolute;
+            top: 0;
+            left: 0;
+        }
+
+        .title {
+            position: absolute;
+            top: 50px;
+            left: 50%;
+            transform: translateX(-50%);
+        }
+
+        .subtitle {
+            position: absolute;
+            top: 100px;
+            left: 50%;
+            transform: translateX(-50%);
+        }
+    </style>
+</head>
+
+<body>
+    <div id="bg"></div>
+    <h1 class="title">Mouse Move Parallax</h1>
+    <h3 class="subtitle">Move the background image on mousemove to create parallax effect.</h3>
+
+    <script>
+        const bg = document.getElementById('bg');
+        const windowWidth = window.innerWidth / 6;
+        const windowHeight = window.innerHeight / 6;
+
+        bg.addEventListener('mousemove', (e) => {
+            const dx = e.clientX / windowWidth;
+            const dy = e.clientY / windowHeight;
+
+            bg.style.transform = `translate(-${dx}%, -${dy}%)`
+        })
+    </script>
+</body>
+
+</html>
