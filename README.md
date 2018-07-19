@@ -15,3 +15,7 @@ Playground: https://zicodeng.github.io/zlab/mouse-move-parallax
 Parallax scrolling is a web site trend where the background content (i.e. an image) is moved at a different speed than the foreground content while scrolling.
 
 Playground: https://zicodeng.github.io/zlab/parallax-scrolling
+
+### 3. Neutrino Demo
+
+This project demostrates basic usage of Neutrino.

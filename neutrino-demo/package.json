@@ -1,0 +1,43 @@
+{
+  "name": "neutrino-demo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "build": "neutrino build",
+    "inspect": "neutrino build --inspect",
+    "start": "neutrino start",
+    "lint": "neutrino lint",
+    "test": "jest test",
+    "coverage": "jest test --coverage"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "prop-types": "^15.6.2",
+    "react": "^16.4.1",
+    "react-dom": "^16.4.1"
+  },
+  "devDependencies": {
+    "@neutrinojs/airbnb": "^8.3.0",
+    "@neutrinojs/jest": "^8.3.0",
+    "@neutrinojs/react": "^8.3.0",
+    "@neutrinojs/style-loader": "^8.3.0",
+    "@types/jest": "^23.3.0",
+    "@types/react": "^16.4.6",
+    "@types/react-dom": "^16.0.6",
+    "@types/react-hot-loader": "^4.1.0",
+    "cache-loader": "^1.2.2",
+    "fork-ts-checker-webpack-plugin": "^0.4.3",
+    "neutrino": "^8.3.0",
+    "node-sass": "^4.9.2",
+    "react-hot-loader": "^4.3.3",
+    "sass-loader": "^7.0.3",
+    "thread-loader": "^1.1.5",
+    "ts-jest": "^23.0.1",
+    "ts-loader": "^4.4.2",
+    "tslint": "^5.11.0",
+    "typescript": "^2.9.2"
+  }
+}
