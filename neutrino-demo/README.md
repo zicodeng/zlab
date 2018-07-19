@@ -34,6 +34,6 @@ While Neutrino is a powerful tool to start modern JavaScript applications with e
 
     > Ok: for some reasons, the command `neutrino test` fails to apply Babel loader with correct presets and plugins. The workaround is to create jest configurations in `jest.config.js` and use command `jest test` directly.
 
-## Resources
+## References
 
 https://neutrinojs.org/
