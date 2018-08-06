@@ -19,3 +19,7 @@ Playground: https://zicodeng.github.io/zlab/parallax-scrolling
 ### 3. Neutrino Demo
 
 This project demostrates basic usage of Neutrino.
+
+### 4. CSS in JS
+
+A more declarative and maintainable way to write CSS in JavaScript for component-based applications.
