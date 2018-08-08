@@ -30,6 +30,7 @@ Pros:
 -   Almost identical API to Styled-Components.
 -   Babel plugin support for optimizing CSS output.
 -   Small source file size.
+-   Offer more features e.g. `css`, `cx` functions.
 
 Cons:
 
