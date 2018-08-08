@@ -63,7 +63,7 @@ const CustomForm1 = ({
             />
             Join our newsletter
         </label>
-        <select name="plan">
+        <select name="plan" value={values.plan}>
             <option value="free">Free</option>
             <option value="premium">Premium</option>
         </select>
@@ -156,4 +156,4 @@ export const FormikForm1 = withFormik({
             .min(6, 'Password must be at least 6 characters')
             .required('Password is required')
     })
-})(CustomForm2);
+})(CustomForm1);
