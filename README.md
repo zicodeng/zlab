@@ -27,3 +27,7 @@ A more declarative and maintainable way to write CSS in JavaScript for component
 ### 5. Formik
 
 Formik is a library that makes it really easy to work with forms in React.
+
+### 6. SVG
+
+Understand SVG and explore how it works.
