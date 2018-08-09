@@ -2,6 +2,8 @@
 
 Understand SVG and explore how it works.
 
+Playground: https://zicodeng.github.io/zlab/svg/
+
 ## What Is SVG?
 
 SVG stands for Scalable Vector Graphics.
