@@ -2,6 +2,8 @@
 
 Display icons through fonts.
 
+Playground: https://zicodeng.github.io/zlab/icon-font/
+
 ## Online Icon Font Converter
 
 -   IcoMoon: https://icomoon.io/app/#/select
