@@ -24,7 +24,7 @@ This project demostrates basic usage of Neutrino.
 
 A more declarative and maintainable way to write CSS in JavaScript for component-based applications.
 
-### 5. Formik
+### 5. Formik Demo
 
 Formik is a library that makes it really easy to work with forms in React.
 

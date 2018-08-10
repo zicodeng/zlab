@@ -8,7 +8,7 @@ import * as Yup from 'yup';
  *
  * We destructure props here to make data more accessible
  *
- * value: contains current values for all inputs
+ * values: contains current values for all inputs
  *
  * errors: invalid field error message
  *
