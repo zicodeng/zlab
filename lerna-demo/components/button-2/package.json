@@ -1,6 +1,6 @@
 {
-  "name": "@zicodeng/button-2",
-  "version": "1.0.2",
+  "name": "zicodeng-button-2",
+  "version": "1.0.1",
   "description": "Button 2",
   "main": "dist",
   "scripts": {
@@ -11,5 +11,5 @@
   "peerDependencies": {
     "react": "*"
   },
-  "gitHead": "fe28dadc1dc787c6ef7d67e840a97f8d77745d7c"
+  "gitHead": "bb1965051aad3dfb63b80b06a0f1e48d4f9ac698"
 }
