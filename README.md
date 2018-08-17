@@ -39,3 +39,7 @@ Playground: https://zicodeng.github.io/zlab/svg/
 Display icons through fonts.
 
 Playground: https://zicodeng.github.io/zlab/icon-font/
+
+### Lerna Demo
+
+Lerna is a tool for managing **monorepo** JavaScript projects.

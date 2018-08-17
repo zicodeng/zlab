@@ -1,0 +1,15 @@
+{
+  "name": "zicodeng-greet",
+  "version": "1.0.0",
+  "description": "A function that says hello.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "function",
+    "greeting"
+  ],
+  "author": "Zico Deng",
+  "license": "ISC"
+}
