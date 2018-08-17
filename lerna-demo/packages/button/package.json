@@ -2,7 +2,7 @@
   "name": "zicodeng-button",
   "version": "1.0.2",
   "description": "A basic button.",
-  "main": "dist/index.js",
+  "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "build": "webpack --mode production"
