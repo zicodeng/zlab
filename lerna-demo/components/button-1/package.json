@@ -1,0 +1,14 @@
+{
+  "name": "@zicodeng/button-1",
+  "version": "1.0.1",
+  "description": "Button 1",
+  "main": "dist",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Zico Deng",
+  "license": "ISC",
+  "peerDependencies": {
+    "react": "*"
+  }
+}
