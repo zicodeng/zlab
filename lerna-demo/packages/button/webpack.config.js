@@ -1,7 +1,8 @@
 module.exports = {
     entry: './src/index.jsx',
     output: {
-        filename: 'index.js'
+        filename: 'index.js',
+        libraryTarget: 'commonjs'
     },
     resolve: {
         extensions: ['.js', '.jsx'],
