@@ -1,6 +1,6 @@
 {
   "name": "zicodeng-button",
-  "version": "1.0.5",
+  "version": "1.0.6",
   "description": "A basic button.",
   "main": "dist/index.js",
   "scripts": {
