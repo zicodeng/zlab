@@ -24,6 +24,7 @@
     "webpack-cli": "^3.1.0"
   },
   "peerDependencies": {
-    "react": "^16.4.2"
+    "react": "^16.4.2",
+    "zicodeng-greet": "^1.0.2"
   }
 }
