@@ -2,4 +2,5 @@
 .cache-loader
 node_modules
 build
+dist
 coverage
