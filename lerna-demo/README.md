@@ -72,4 +72,6 @@ https://codeburst.io/monorepos-by-example-part-1-3a883b49047e
 
 https://yarnpkg.com/blog/2017/08/02/introducing-workspaces/
 
+http://krasimirtsonev.com/blog/article/javascript-library-starter-using-webpack-es6
+
 https://www.youtube.com/watch?v=lV8-1S28ycM

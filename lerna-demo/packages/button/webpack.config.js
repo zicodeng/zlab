@@ -3,7 +3,8 @@ module.exports = {
     output: {
         filename: 'index.js',
         library: 'Button',
-        libraryTarget: 'umd'
+        libraryTarget: 'umd',
+        umdNamedDefine: true
     },
     resolve: {
         extensions: ['.js', '.jsx'],
