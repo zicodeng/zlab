@@ -40,6 +40,24 @@ Display icons through fonts.
 
 Playground: https://zicodeng.github.io/zlab/icon-font/
 
-### Lerna Demo
+### 8. Lerna Demo
 
 Lerna is a tool for managing **monorepo** JavaScript projects.
+
+### 9. JavaScript Module Pattern
+
+JavaScript does not natively support **Class**, an idea that is widely used in languages such as Java to create **encapsulation** and **abstraction**. Instead, JavaScript programmers use Module patterns to mimic the concept of Class.
+
+### 10. WebGL
+
+Built on top of OpenGL, WebGL is a browser-based JavaScript API that allows us to directly communicate with GPU for drawing 3D graphics and applying visual effects.
+
+### 11. Three.js
+
+JavaScript 3D library.
+
+-   Basic
+    -   Three.js basic example.
+-   Web Traffic Geomap
+    -   Visualize web traffic in 3D globe.
+    -   Playground: https://zicodeng.github.io/zlab/three.js/web-traffic-geomap/
