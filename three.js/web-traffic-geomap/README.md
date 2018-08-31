@@ -1,5 +1,7 @@
 # Web Traffic Geomap
 
+Visualize web traffic in 3D globe.
+
 Playground: https://zicodeng.github.io/zlab/three.js/web-traffic-geomap/
 
 ## Feature List
