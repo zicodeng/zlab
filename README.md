@@ -54,7 +54,7 @@ Built on top of OpenGL, WebGL is a browser-based JavaScript API that allows us t
 
 ### 11. Three.js
 
-JavaScript 3D library.
+A JavaScript 3D library.
 
 -   Basic
     -   Three.js basic example.
