@@ -1,5 +1,7 @@
 # Web Traffic Geomap
 
+Playground: https://zicodeng.github.io/zlab/three.js/web-traffic-geomap/
+
 ## Feature List
 
 -   Ability to click on a data point.
