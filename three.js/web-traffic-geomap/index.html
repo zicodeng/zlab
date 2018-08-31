@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Web Traffic Geomap</title>
+
+    <link href="https://fonts.googleapis.com/css?family=Alegreya|Roboto|Roboto+Condensed" rel="stylesheet">
+    <link rel="stylesheet" type="text/css" href="style.css">
+</head>
+
+<body>
+    <div id="container"></div>
+    <div class="controls">
+        <button class="caps rotation-ctrl">Rotation <span>on</span></button>
+        <button class="caps updates-ctrl">Updates <span>on</span></button>
+    </div>
+
+    <div class="item-info">
+        <h2>Seattle</h2>
+
+        <section class="ips">
+            <label>Top IPs</label>
+        </section>
+
+        <section class="inline region">
+            <label>Region</label>
+            <div>Washington</div>
+        </section>
+
+        <section class="inline country">
+            <label>Country</label>
+            <div>United States</div>
+        </section>
+    </div>
+
+    <script type="text/javascript" src="./globe/third-party/Three/three.min.js"></script>
+    <script type="text/javascript" src="./globe/third-party/Three/Detector.js"></script>
+    <script type="text/javascript" src="./globe/third-party/Tween.min.js"></script>
+    <script type="text/javascript" src="./globe/third-party/underscore-min.js"></script>
+    <script type="text/javascript" src="./globe/constants.js"></script>
+    <script type="text/javascript" src="./globe/globe.js"></script>
+    <!-- Import data -->
+    <script type="text/javascript" src="./data/dataset-1.js"></script>
+    <script type="text/javascript" src="./data/dataset-2.js"></script>
+    <script type="text/javascript" src="./data/dataset-3.js"></script>
+    <script type="text/javascript" src="./data/dataset-4.js"></script>
+    <script type="text/javascript" src="./data/dataset-5.js"></script>
+    <script type="text/javascript" src="./data/dataset-6.js"></script>
+    <script type="text/javascript" src="./index.js"></script>
+</body>
+
+</html>

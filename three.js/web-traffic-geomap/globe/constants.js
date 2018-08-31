@@ -1,0 +1,2 @@
+const BG_COLOR = '#030a11';
+const AUTO_ROTATE_SPEED = .0015;

@@ -1,0 +1,73 @@
+html,
+body {
+    overflow: hidden;
+    margin: 0;
+    font-family: 'Alegreya', serif;
+    color: #d5ebe9;
+    font-size: 14px;
+}
+
+.controls {
+    position: fixed;
+    bottom: 2em;
+    left: 2.5em;
+}
+
+button {
+    color: #d5ebe9;
+    font-family: 'Roboto', sans-serif;
+    background-color: transparent;
+    border: 1px solid #d5ebe9;
+    padding: 10px 20px;
+    transition: all 0.5s ease-in-out;
+    cursor: pointer;
+    outline: none;
+}
+
+button:hover {
+    color: black;
+    background-color: #d5ebe9;
+}
+
+button:not(:first-child) {
+    margin-left: 1.5em;
+}
+
+.inline {
+    display: inline-block;
+}
+
+.caps {
+    text-transform: uppercase;
+}
+
+h2 {
+    margin-bottom: 1.2em;
+}
+
+.item-info {
+    position: fixed;
+    bottom: 10px;
+    right: 16px;
+    padding: 0 1.5em;
+    text-align: right;
+    display: none;
+}
+
+section {
+    margin-bottom: 1.5em;
+}
+
+section.inline:not(:first-child) {
+    margin-left: 5em;
+}
+
+label {
+    text-transform: uppercase;
+    font: 0.8em 'Roboto Condensed', sans-serif;
+    color: #4e83bb;
+}
+
+section div {
+    font-family: 'Roboto', sans-serif;
+}
