@@ -22,10 +22,7 @@ module.exports = {
         rules: [
             {
                 test: /\.(t|j)sx?$/,
-                exclude: [
-                    /node_modules/,
-                    path.resolve(__dirname, 'src/three-oribit-controls.js')
-                ],
+                exclude: /node_modules/,
                 use: [
                     {
                         loader: 'thread-loader',
