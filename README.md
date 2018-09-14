@@ -56,7 +56,7 @@ Built on top of OpenGL, WebGL is a browser-based JavaScript API that allows us t
 
 A JavaScript 3D library.
 
--   Basic
+-   Basics
     -   Three.js basic example.
 -   Web Traffic Geomap
     -   Visualize web traffic in 3D globe.
