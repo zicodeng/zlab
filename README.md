@@ -61,6 +61,7 @@ A JavaScript 3D library.
 -   Web Traffic Geomap
     -   Visualize web traffic in 3D globe.
     -   Playground: https://zicodeng.github.io/zlab/three.js/web-traffic-geomap/
+-   Integration with React
 
 ### OpenAPI
 
