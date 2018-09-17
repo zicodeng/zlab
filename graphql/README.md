@@ -11,7 +11,7 @@ An API query language and a server-side runtime for executing queries.
 -   Client often needs to send multiple requests to get data stored in different tables or collections.
 -   As the application grows, the number of endpoints starts exploding. It becomes harder to keep track of all endpoints.
 -   With REST APIs, the server dictates what response will be sent to the client. **Client has no control** what data it will be getting.
--   Without actually seeing the response, the client cannot tell what response will it be getting.
+-   REST API is schemaless: without actually seeing the response, the client cannot tell what response will it be getting.
 
 ### Benefits of GraphQL:
 
