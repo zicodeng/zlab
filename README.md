@@ -70,3 +70,7 @@ API description format for REST APIs.
 ### GraphQL
 
 GraphQL is an API query language and a server-side runtime for executing queries.
+
+### Map
+
+Explore libraries for interactive maps.
