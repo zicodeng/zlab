@@ -8,6 +8,7 @@ import { Query } from 'react-apollo';
 export default ({ children, ...props }) => (
     <Query {...props}>
         {({ loading, error, data }) => {
+            console.log(loading);
             if (loading) {
                 return 'Loading';
             }

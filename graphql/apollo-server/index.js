@@ -117,8 +117,7 @@ const resolvers = {
             return _.find(books, { id: args.id });
         },
         books() {
-            // return books;
-            throw new Error('Hello');
+            return books;
         },
         author(parent, args) {
             return _.find(authors, { id: args.id });
